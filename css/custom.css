@@ -1,0 +1,12 @@
+.bd{
+    background: yellow;
+}
+
+a{
+    color: yellowgreen;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
