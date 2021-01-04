@@ -16,14 +16,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sunilchaudhary" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sunilchaudhary" height="30" width="40" /></a>
+<a href="https://codepen.io/sunilchaudhary" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="sunilchaudhary" height="30" width="40" /></a>
 <a href="https://dev.to/sunilchau" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sunilchau" height="30" width="40" /></a>
-<a href="https://twitter.com/sunilch56842645" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sunilch56842645" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sunil-c-b2a815136" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunil-c-b2a815136" height="30" width="40" /></a>
-<a href="https://instagram.com/_sunil_ig_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sunil_ig_" height="30" width="40" /></a>
-<a href="https://dribbble.com/sunilchaud" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sunilchaud" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uch4yzyacuhr0zwxp9mradmg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uch4yzyacuhr0zwxp9mradmg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sunilthewiseman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sunilthewiseman" height="30" width="40" /></a>
+<a href="https://twitter.com/sunilch56842645" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sunilch56842645" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sunil-c-b2a815136" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sunil-c-b2a815136" height="30" width="40" /></a>
+<a href="https://instagram.com/_sunil_ig_" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sunil_ig_" height="30" width="40" /></a>
+<a href="https://dribbble.com/sunilchaud" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="sunilchaud" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uch4yzyacuhr0zwxp9mradmg" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uch4yzyacuhr0zwxp9mradmg" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sunilthewiseman" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="sunilthewiseman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
