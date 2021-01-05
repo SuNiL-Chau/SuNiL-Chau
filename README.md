@@ -32,6 +32,14 @@
 
 ![Sunil's github stats](https://github-readme-stats.vercel.app/api?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Sunil's github top langs" />
+</p>
+<p align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Sunil's github stats" width="440" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="Sunil's github streak" width="440" />
+</p>
+
 ![Sunil's github streak](https://github-readme-streak-stats.herokuapp.com/?user=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox)
 
 <img align="center" src="/gh-footer.png" />
