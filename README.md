@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sunil-chau&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-chau" /> </p>
 
-<img src="/octocat-user.png" height="465" width="400" align="right"></img>
+<img src="/octocat-user.png" width="400" align="right"></img>
 
 - 🔭 I’m currently working on [Mine Css Framework](https://github.com/SuNiL-Chau/Mine-CSS-Framework)
 
