@@ -1,5 +1,5 @@
-<h1 align="center">Hello World 👋, I'm Sunil Chaudhary</h1>
-<h3 align="center">I'm Currently a BCA student & I like web development. My goal is to be Full stack web developer.</h3>
+![footer image](/gh-header.png)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sunil-chau&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-chau" /> </p>
 
 <img src="/octocat-user.png" height="465" width="400" align="right"></img>
