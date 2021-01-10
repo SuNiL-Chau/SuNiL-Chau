@@ -1,8 +1,6 @@
 ![Header image](/gh-header.png)
 
-<p align="right">
-  <img width="460" src="/octocat-user.png">
-</p>
+<img align="right" width="460" src="/octocat-user.png">
 
 <h3 align="left">About What I'm working:</h3>
 
