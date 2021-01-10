@@ -1,9 +1,5 @@
 ![Header image](/gh-header.png)
 
-<p align="right">
-  <img width="460" src="/octocat-user.png">
-</p>
-
 <h3 align="left">About What I'm working:</h3>
 
 - 🔭 I’m currently working on [Mine Css Framework](https://github.com/SuNiL-Chau/Mine-CSS-Framework)
@@ -15,6 +11,10 @@
 - 💬 Ask me about **SASS, CSS, JQuery, HTML**
 
 - 📫 How to reach me **sunilthewiseman@gmail.com**
+
+<p align="right">
+  <img width="460" src="/octocat-user.png">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
