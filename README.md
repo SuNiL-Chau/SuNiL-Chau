@@ -1,8 +1,10 @@
-![footer image](/gh-header.png)
+![Header image](/gh-header.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sunil-chau&label=Profile%20views&color=0e75b6&style=flat" alt="sunil-chau" /> </p>
+<p align="right">
+  <img width="460" src="/octocat-user.png">
+</p>
 
-<img src="/octocat-user.png" width="400" align="right"></img>
+<h3 align="left">About What I'm working:</h3>
 
 - 🔭 I’m currently working on [Mine Css Framework](https://github.com/SuNiL-Chau/Mine-CSS-Framework)
 
@@ -10,7 +12,7 @@
 
 - 🤝 I’m looking for help with [Mine Css Framework](https://github.com/SuNiL-Chau/Mine-CSS-Framework)
 
-- 💬 Ask me about **sass, css, jquery, html**
+- 💬 Ask me about **SASS, CSS, JQuery, HTML**
 
 - 📫 How to reach me **sunilthewiseman@gmail.com**
 
@@ -42,10 +44,25 @@
   <a href="https://webpack.js.org" target="_blank"> <img src="https://img.icons8.com/wired/40/C05746/webpack.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github top langs"/>
+<h3>
+  <details>
+    <summary><strong>Mostly used Languages on Github</strong></summary>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github top langs"/>
+  </details>
+</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github stats" width="450" />
+<h3>
+  <details>
+    <summary><strong>My Github Stat's! 📊 </strong></summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github stats" width="450" />
+  </details>
+</h3>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github streak" width="450" />
+<h3>
+  <details>
+    <summary><strong>My Github Streak! :zap: </strong></summary>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github streak" width="450" />
+  </details>
+</h3>
 
 ![footer image](/gh-footer.png)
