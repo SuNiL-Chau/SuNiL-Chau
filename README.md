@@ -12,10 +12,6 @@
 
 - 📫 How to reach me **sunilthewiseman@gmail.com**
 
-<p align="right">
-  <img width="460" src="/octocat-user.png">
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sunilchaudhary" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/ios-filled/40/C05746/codepen.png" alt="sunilchaudhary" height="40" width="40" /></a>
@@ -25,6 +21,10 @@
 <a href="https://instagram.com/_sunil_ig_" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/ios-filled/40/C05746/instagram-new.png" alt="_sunil_ig_" height="40" width="40" /></a> 
 <a href="https://dribbble.com/sunilchaud" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/wired/40/C05746/dribbble.png" alt="sunilchaud" height="40" width="40" /></a> 
 <a href="https://www.youtube.com/c/uch4yzyacuhr0zwxp9mradmg" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/ios-filled/50/C05746/youtube-play.png" alt="uch4yzyacuhr0zwxp9mradmg" height="40" width="40" /></a>
+</p>
+
+<p align="right">
+  <img width="460" src="/octocat-user.png">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
