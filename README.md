@@ -1,4 +1,4 @@
-![Header image](/gh-header.png)
+![Header image](/gh-header.jpg)
 
 <img align="right" width="460" src="/octocat-user.png">
 
@@ -63,4 +63,4 @@
   </details>
 </h3>
 
-![footer image](/gh-footer.png)
+![footer image](/gh-footer.jpg)
