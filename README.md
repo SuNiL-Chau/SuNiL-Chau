@@ -42,19 +42,8 @@
   <a href="https://webpack.js.org" target="_blank"> <img src="https://img.icons8.com/wired/40/C05746/webpack.png" alt="webpack" width="40" height="40"/> </a>
 </p>
 
-<h3>
-  <details>
-    <summary><strong>Mostly used Languages on Github</strong></summary>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github top langs"/>
-  </details>
-</h3>
-
-<h3>
-  <details>
-    <summary><strong>My Github Stat's! 📊 </strong></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github stats" width="450" />
-  </details>
-</h3>
+<h3>My Github Stat's! 📊</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=sunil-chau&show_icons=true&locale=en&layout=compact&theme=gruvbox&bg_color=333333" alt="Sunil's github stats" width="450">
 
 <h3>
   <details>
