@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/sunil-c-b2a815136" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/android/40/C05746/linkedin.png" alt="sunil-c-b2a815136" height="40" width="40" /></a> 
 <a href="https://instagram.com/_sunil_ig_" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/ios-filled/40/C05746/instagram-new.png" alt="_sunil_ig_" height="40" width="40" /></a> 
 <a href="https://dribbble.com/sunilchaud" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/wired/40/C05746/dribbble.png" alt="sunilchaud" height="40" width="40" /></a> 
-<a href="https://www.youtube.com/c/uch4yzyacuhr0zwxp9mradmg" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/ios-filled/50/C05746/youtube-play.png" alt="uch4yzyacuhr0zwxp9mradmg" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCh4YzYaCuHr0ZwxP9mRAdMg" target="_blank" rel=”noopener noreferrer”><img align="center" src="https://img.icons8.com/ios-filled/50/C05746/youtube-play.png" alt="uch4yzyacuhr0zwxp9mradmg" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
